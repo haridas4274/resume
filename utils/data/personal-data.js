@@ -1,6 +1,6 @@
 export const personalData = {
   name: "HARIDAS P",
-  profile: '/profile.jpg',
+  profile: '/profile.JPG',
   designation: "Software Developer",
   email: 'haridasnamakkal@gmail.com',
   phone: '+91 8508746641',
